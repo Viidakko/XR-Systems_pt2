@@ -47,7 +47,7 @@ Material:
     - _ZoomAmount: 0.52
     - _ZoomSize: 0
     m_Colors:
-    - _ObjectScreenPosition: {r: -0.00030402385, g: 0.0013216446, b: 0.780859, a: 0}
+    - _ObjectScreenPosition: {r: -0.00062519213, g: -0.00013314, b: 2.744552, a: 0}
     - _ZoomAmount: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3452074673499112763
